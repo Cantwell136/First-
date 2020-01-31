@@ -1,0 +1,35 @@
+h1{
+    background-color: darkcyan;
+    box-shadow: 0px 3px 3px grey;
+}
+
+html,
+body {
+  height: 100%;
+  width:100%;
+}
+
+.page-content {
+  flex: 1 0 auto;
+}
+
+.sticky-footer {
+  flex-shrink: none;
+  background-color: darkcyan;
+}
+#footerImg{
+  width: 30px; 
+  height: 30px;
+}
+#fbook{  
+  width: 30px; 
+  height: 30px;
+}
+#gitHub{
+  width: 30px; 
+  height: 30px;
+}
+#linked{
+  width: 30px; 
+  height: 30px;
+}
